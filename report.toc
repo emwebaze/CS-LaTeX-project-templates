@@ -1,0 +1,24 @@
+\contentsline {chapter}{Declaration}{i}
+\contentsline {chapter}{Approval}{ii}
+\contentsline {chapter}{Dedication}{iii}
+\contentsline {chapter}{Acknowledgement}{iv}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Background}{1}
+\contentsline {subsection}{\numberline {1.1.1}Disease detection in Cassava}{1}
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}
+\contentsline {section}{\numberline {1.3}Main Objective}{2}
+\contentsline {subsection}{\numberline {1.3.1}Specific Objectives}{2}
+\contentsline {section}{\numberline {1.4}Scope of the study}{3}
+\contentsline {section}{\numberline {1.5}Significance of the study}{3}
+\contentsline {chapter}{\numberline {2}Literature Review}{4}
+\contentsline {section}{\numberline {2.1}Introduction}{4}
+\contentsline {section}{\numberline {2.2}Computer Vision}{4}
+\contentsline {subsection}{\numberline {2.2.1}Fundamentals of Computer Vision}{5}
+\contentsline {section}{\numberline {2.3}Object Detection}{5}
+\contentsline {section}{\numberline {2.4}Review of Object Detection Techniques}{6}
+\contentsline {subsection}{\numberline {2.4.1}Haartraining}{6}
+\contentsline {subsubsection}{Sample Creation}{6}
+\contentsline {subsubsection}{Haar Like Features}{6}
+\contentsline {subsection}{\numberline {2.4.2}Knowledge and Motion Based Methods}{7}
+\contentsline {subsection}{\numberline {2.4.3}Background Subtraction Method}{7}
+\contentsline {subsection}{\numberline {2.4.4}Template matching approach}{8}
